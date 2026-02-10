@@ -58,7 +58,7 @@ Smart_Task_Manager_Flutter_Application/
    
    git clone https://github.com/saisruthi0606-collab/smart_task_manager_flutter_application.git
    
-2/Navigate to the project directory
+2.Navigate to the project directory
 
 3.cd smart_task_manager_flutter_application
 
